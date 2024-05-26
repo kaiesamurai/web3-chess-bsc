@@ -1,4 +1,4 @@
-# Web3 Chess
+![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/613304b3-078b-4fa1-9f62-c8141a917541)![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/5f540b9c-b5ef-4285-8613-984daa0bf1c2)# Web3 Chess
 
 Welcome to Web3 Chess, the decentralized chess platform where you can not only enjoy the timeless game of chess but also earn rewards and collect unique NFTs.
 
@@ -18,6 +18,16 @@ Chess is more than just a game; it's an intellectual challenge enjoyed by millio
 
 ### About Binance Smart Chain (BSC)
 Binance Smart Chain (BSC) is a blockchain platform built for running smart contract-based applications. It aims to provide a fast and low-cost alternative to Ethereum, making it ideal for decentralized applications like Web3 Chess. BSC is compatible with the Ethereum Virtual Machine (EVM), allowing developers to easily port their Ethereum-based projects to BSC and benefit from its high throughput and low transaction fees.
+
+## Contract Addresses and deployment, transactions on BSC testnet:
+
+#### NFT Contract Address: 0x8AE990D3FFdf10ef3f4Fe8167CCA235A0044543A
+#### Game Contract Address: 0x20582f1aA08b61143990dEB9820fc8e436730f0C
+#### Marketplace Contract Address: 0x30E27922E8de75aCa3d82c81aB994A99412F6A46
+![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/8e0a8ac3-edda-4044-9e1c-9669553ec2ef)
+![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/f0d0364e-f5a8-45b1-a8b6-e9dec5da640e)
+![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/d3a9b433-8e94-4b80-91a0-2150e9bdda49)
+
 
 ## Features
 
