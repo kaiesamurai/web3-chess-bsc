@@ -1,4 +1,4 @@
-![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/613304b3-078b-4fa1-9f62-c8141a917541)![image](https://github.com/kaiesamurai/web3-chess-bsc/assets/168727731/5f540b9c-b5ef-4285-8613-984daa0bf1c2)# Web3 Chess
+# Web3 Chess
 
 Welcome to Web3 Chess, the decentralized chess platform where you can not only enjoy the timeless game of chess but also earn rewards and collect unique NFTs.
 
